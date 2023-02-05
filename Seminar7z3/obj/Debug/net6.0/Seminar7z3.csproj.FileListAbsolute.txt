@@ -1,0 +1,15 @@
+C:\Users\ITMEDIA_PC\Desktop\C#\DZ7\Seminar7z3\bin\Debug\net6.0\Seminar7z3.exe
+C:\Users\ITMEDIA_PC\Desktop\C#\DZ7\Seminar7z3\bin\Debug\net6.0\Seminar7z3.deps.json
+C:\Users\ITMEDIA_PC\Desktop\C#\DZ7\Seminar7z3\bin\Debug\net6.0\Seminar7z3.runtimeconfig.json
+C:\Users\ITMEDIA_PC\Desktop\C#\DZ7\Seminar7z3\bin\Debug\net6.0\Seminar7z3.dll
+C:\Users\ITMEDIA_PC\Desktop\C#\DZ7\Seminar7z3\bin\Debug\net6.0\Seminar7z3.pdb
+C:\Users\ITMEDIA_PC\Desktop\C#\DZ7\Seminar7z3\obj\Debug\net6.0\Seminar7z3.csproj.AssemblyReference.cache
+C:\Users\ITMEDIA_PC\Desktop\C#\DZ7\Seminar7z3\obj\Debug\net6.0\Seminar7z3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITMEDIA_PC\Desktop\C#\DZ7\Seminar7z3\obj\Debug\net6.0\Seminar7z3.AssemblyInfoInputs.cache
+C:\Users\ITMEDIA_PC\Desktop\C#\DZ7\Seminar7z3\obj\Debug\net6.0\Seminar7z3.AssemblyInfo.cs
+C:\Users\ITMEDIA_PC\Desktop\C#\DZ7\Seminar7z3\obj\Debug\net6.0\Seminar7z3.csproj.CoreCompileInputs.cache
+C:\Users\ITMEDIA_PC\Desktop\C#\DZ7\Seminar7z3\obj\Debug\net6.0\Seminar7z3.dll
+C:\Users\ITMEDIA_PC\Desktop\C#\DZ7\Seminar7z3\obj\Debug\net6.0\refint\Seminar7z3.dll
+C:\Users\ITMEDIA_PC\Desktop\C#\DZ7\Seminar7z3\obj\Debug\net6.0\Seminar7z3.pdb
+C:\Users\ITMEDIA_PC\Desktop\C#\DZ7\Seminar7z3\obj\Debug\net6.0\Seminar7z3.genruntimeconfig.cache
+C:\Users\ITMEDIA_PC\Desktop\C#\DZ7\Seminar7z3\obj\Debug\net6.0\ref\Seminar7z3.dll
